@@ -100,7 +100,7 @@ AI-Marketing-Content-Creator/
 
 ### System Architecture
 
-```mermaid
+```
 graph TD
     A[Gradio UI] --> B[MCP Server]
     B --> C[Modal Labs H200 GPU]
