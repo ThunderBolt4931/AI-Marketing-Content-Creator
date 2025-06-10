@@ -1,17 +1,3 @@
----
-title: AI Marketing Content Generator
-emoji: 🎨
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 5.33.0
-app_file: app.py
-pinned: false
-short_description: An AI-powered tool made for content creators and marketers
-thumbnail: >-
-  https://cdn-uploads.huggingface.co/production/uploads/679a6654f725a69c7545169c/U9TK3AQP0mjvBLAyO9Y5H.jpeg
----
-
 # 🎨 AI Marketing Content Generator
 
 Generate professional marketing images with AI using FLUX.1-schnell. Perfect for content creators, marketers, and social media managers!
