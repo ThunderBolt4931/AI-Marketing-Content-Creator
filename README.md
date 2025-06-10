@@ -5,6 +5,8 @@
 [![Modal](https://img.shields.io/badge/Modal-GPU-green.svg)](https://modal.com)
 [![MCP](https://img.shields.io/badge/MCP-Protocol-purple.svg)](https://modelcontextprotocol.io)
 
+> **Live Demo:** [**AI Marketing Content Creator**](https://huggingface.co/spaces/Agents-MCP-Hackathon/AI-Marketing-Content-Creator) 
+
 > **Professional AI-powered marketing image generation tool** - Create stunning marketing visuals in minutes, not hours!
 
 Generate high-quality marketing images using state-of-the-art Flux AI model running on Modal Labs H200 GPUs. Perfect for content creators, marketers, and businesses who need professional visuals without design expertise.
