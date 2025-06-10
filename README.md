@@ -102,6 +102,7 @@ AI-Marketing-Content-Creator/
 
 ### System Architecture
 
+>mermaid
 ```
 graph TD
     A[Gradio UI] --> B[MCP Server]
